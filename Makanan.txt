@@ -1,0 +1,7 @@
+Makanan :
+-mie ayam
+-ayam geprek 
+-seblak 
+-soto
+-rujak
+-ayam bakar
